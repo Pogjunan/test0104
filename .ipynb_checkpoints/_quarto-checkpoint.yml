@@ -1,6 +1,6 @@
 project:
   type: website
-output-dor: docs
+  output-dir: docs
 
 website:
   title: "test0104"
